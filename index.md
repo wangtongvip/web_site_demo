@@ -1,10 +1,17 @@
+
+<br>
+<br>
+
 # 关于使用特定音频将人类智商提升200%的研究（研究材料）
 
 ###### 绝密级
 
-#### 作者: 王通
+<br>
+<br>
 
 <img src="https://user-images.githubusercontent.com/8910748/182274893-ac645655-9620-4926-b000-31927fd11d7e.JPG" width=100 />
+
+#### 王通
 
 ##### 现任中国特殊人类研究院（院长） | 186125xxxxx | wangxxxxxp@163.com
 
