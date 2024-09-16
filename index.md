@@ -47,7 +47,7 @@
 
 #### 关于人类潜能被激发的过程展示一
 
-<video src="https://gh-proxy.com/https://github.com/wangtongvip/web_site_demo/blob/main/resource/181004_04_Dolphins-Whale_06_1.mp4" width="600px" controls="controls"></video>
+<video src="https://gh-proxy.com/https://github.com/wangtongvip/web_site_demo/blob/main/resource/181004_04_Dolphins-Whale_06_1.mp4" width="600px" heigth="400px" controls="controls"></video>
 
 <br>
 <br>
@@ -71,7 +71,5 @@
 ​<audio id="audio3" controls="" preload="none">
       <source id="mp3" src="https://gh-proxy.com/https://github.com/wangtongvip/web_site_demo/blob/main/resource/demo.mp3">
 </audio>
-
-<video src="https://gh-proxy.com/https://github.com/wangtongvip/web_site_demo/blob/main/resource/demo.mp3" width="600px" controls="controls"></video>
 
 ###### Copyright © wangxxxxxxxxp@163.com All Rights Reserved
