@@ -63,13 +63,13 @@
 #### 人类智商被特殊音频提升的示例二
 
 ​<audio id="audio2" controls="" preload="none">
-      <source id="mp3" src="https://gh-proxy.com/https://github.com/wangtongvip/web_site_demo/blob/main/resource/demo.mp3">
+      <source id="mp3" src="https://gh-proxy.com/https://github.com/wangtongvip/web_site_demo/blob/main/resource/gls-qy.mp3">
 </audio>
 
 #### 人类智商被特殊音频提升的示例三
 
 ​<audio id="audio3" controls="" preload="none">
-      <source id="mp3" src="https://gh-proxy.com/https://github.com/wangtongvip/web_site_demo/blob/main/resource/demo.mp3">
+      <source id="mp3" src="https://gh-proxy.com/https://github.com/wangtongvip/web_site_demo/blob/main/resource/ln-wf.mp3">
 </audio>
 
 ###### Copyright © wangxxxxxxxxp@163.com All Rights Reserved
