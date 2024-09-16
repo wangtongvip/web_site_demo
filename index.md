@@ -26,7 +26,7 @@
 
 #### 关于人类基于声音觉醒的图示二
 
-<img src="https://gh-proxy.com/https://github.com/wangtongvip/web_site_demo/blob/main/resource/eaa761cd040e1e0c13120eb3f54279bc.jpg" width=400 />
+<img src="https://gh-proxy.com/https://github.com/wangtongvip/web_site_demo/blob/main/resource/e93bdcfd30796c44c0770288d67f02d4.jpeg" width=600 />
 
 #### 关于人类基于声音觉醒的图示三
 
@@ -34,7 +34,7 @@
 
 #### 关于人类基于声音觉醒的图示四
 
-<img src="https://gh-proxy.com/https://github.com/wangtongvip/web_site_demo/blob/main/resource/e93bdcfd30796c44c0770288d67f02d4.jpeg" width=600 />
+<img src="https://gh-proxy.com/https://github.com/wangtongvip/web_site_demo/blob/main/resource/eaa761cd040e1e0c13120eb3f54279bc.jpg" width=400 />
 
 #### 关于人类基于声音觉醒的图示五
 
@@ -47,6 +47,10 @@
 
 #### 关于人类潜能被激发的过程展示一
 
+​<video id="video1" controls="" preload="none">
+      <source id="mp4" src="https://gh-proxy.com/https://github.com/wangtongvip/web_site_demo/blob/main/resource/181004_04_Dolphins-Whale_06_1.mp4">
+</audio>
+
 <br>
 <br>
 
@@ -54,19 +58,19 @@
 
 #### 人类智商被特殊音频提升的示例一
 
-​<audio id="audio" controls="" preload="none">
+​<audio id="audio1" controls="" preload="none">
       <source id="mp3" src="https://gh-proxy.com/https://github.com/wangtongvip/web_site_demo/blob/main/resource/demo.mp3">
 </audio>
 
 #### 人类智商被特殊音频提升的示例二
 
-​<audio id="audio" controls="" preload="none">
+​<audio id="audio2" controls="" preload="none">
       <source id="mp3" src="https://gh-proxy.com/https://github.com/wangtongvip/web_site_demo/blob/main/resource/demo.mp3">
 </audio>
 
 #### 人类智商被特殊音频提升的示例三
 
-​<audio id="audio" controls="" preload="none">
+​<audio id="audio3" controls="" preload="none">
       <source id="mp3" src="https://gh-proxy.com/https://github.com/wangtongvip/web_site_demo/blob/main/resource/demo.mp3">
 </audio>
 
