@@ -12,7 +12,7 @@
 
 #### 关于人类基于声音觉醒的图示一
 
-<img src="https://github.com/wangtongvip/web_site_demo/blob/main/resource/2a75836ee2f35974f4f482901f5502f9.png" width=100 />
+<img src="https://github.com/wangtongvip/web_site_demo/blob/main/resource/2a75836ee2f35974f4f482901f5502f9.png" width=600 />
 
 #### 关于人类基于声音觉醒的图示二
 
