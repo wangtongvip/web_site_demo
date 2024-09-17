@@ -26,7 +26,7 @@
 
 #### 关于人类基于声音觉醒的图示二
 
-<img src="https://gh-proxy.com/https://github.com/wangtongvip/web_site_demo/blob/main/resource/e93bdcfd30796c44c0770288d67f02d4.jpeg" />
+<img src="https://gh-proxy.com/https://github.com/wangtongvip/web_site_demo/blob/main/resource/e93bdcfd30796c44c0770288d67f02d4.jpeg" width=600 />
 
 #### 关于人类基于声音觉醒的图示三
 
@@ -47,7 +47,7 @@
 
 #### 关于人类潜能被激发的过程展示一
 
-<video src="https://gh-proxy.com/https://github.com/wangtongvip/web_site_demo/blob/main/resource/181004_04_Dolphins-Whale_06_1.mp4" controls="controls"></video>
+<video src="https://gh-proxy.com/https://github.com/wangtongvip/web_site_demo/blob/main/resource/181004_04_Dolphins-Whale_06_1.mp4" width=600 height=400 controls="controls"></video>
 
 <br>
 <br>
